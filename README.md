@@ -26,9 +26,7 @@
 📧 Emails:
 
 >sunweihao@dlmu.edu.com  
->
 >sunweihao27@ustc.edu.cn
->
 >1497081944@qq.com
 
 🔗 Gitee: [Will-Son (ichont)](https://gitee.com/ichont)
