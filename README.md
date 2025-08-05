@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Weihao Sun!  
+## 👋 Hi, I'm Weihao Sun!  ![](https://komarev.com/ghpvc/?username=ichont&color=green)
 
 🎓 **DLMU(Dalian Maritime University)** **| Dalian Key Laboratory of Artificial Intelligence| TSMC Group**
 
