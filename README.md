@@ -25,12 +25,8 @@
 🔗 CSDN: [ichont-CSDN](https://blog.csdn.net/ichont?type=edu)
 🔗 Zhihu:[ ichont](https://www.zhihu.com/people/ichont)
 
----
-
 ### 🔗  Resource Links
 
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) is the leading software for creating deepfakes.
-
----
 
 ✨ **Let's study together and work together for the development of AI**.🚀🚀🚀
