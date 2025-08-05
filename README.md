@@ -1,4 +1,7 @@
-## 👋 Hi, I'm Weihao Sun!       ![](https://komarev.com/ghpvc/?username=ichont&color=blue)
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin: 0; padding: 0;">
+  <h2>👋 Hi, I'm Weihao Sun!</h2>
+  <img src="https://komarev.com/ghpvc/?username=ichont&color=blue" alt="Visitors" style="vertical-align: middle; height: 24px;"/>
+</div>
 
 🎓 **DLMU(Dalian Maritime University)** **| Dalian Key Laboratory of Artificial Intelligence| TSMC Group**
 
