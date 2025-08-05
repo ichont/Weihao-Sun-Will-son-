@@ -33,4 +33,4 @@
 
 ---
 
-✨ **Let's study together and work together for the development of AI. **🚀🚀🚀
+✨ **Let's study together and work together for the development of AI.**🚀🚀🚀
