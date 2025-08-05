@@ -24,17 +24,13 @@
 
 ### 📬 Contact Me
 📧 Emails:
-
 >sunweihao@dlmu.edu.com  
 >sunweihao27@ustc.edu.cn
 >1497081944@qq.com
 
 🔗 Gitee: [Will-Son (ichont)](https://gitee.com/ichont)
-
 🔗 Huggingface:[Ichont ](https://huggingface.co/Ichont)
-
 🔗 CSDN: [ichont-CSDN](https://blog.csdn.net/ichont?type=edu)
-
 🔗 Zhihu:[ ichont](https://www.zhihu.com/people/ichont)
 
 ---
