@@ -17,11 +17,6 @@
 
 ---
 
-### 🔧 Open-Source Projects  
-- See details in personal repository
-
----
-
 ### 📬 Contact Me
 📧 Emails: sunweihao@dlmu.edu.com  sunweihao27@ustc.edu.cn  1497081944@qq.com
 
