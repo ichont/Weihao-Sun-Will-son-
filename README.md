@@ -6,8 +6,6 @@
 
 🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security| AICSLab**
 
----
-
 ### 🔥 About Me  
 - 📍 Currently pursuing a bachelor's degree at **Dalian Maritime University**
 - 🚀 The research direction is **AI4SE and AI4EDA**
