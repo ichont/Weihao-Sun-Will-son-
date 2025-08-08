@@ -17,7 +17,7 @@
 ---
 
 ### 📬 Contact Me
-📧 My regular email address: sunweihao@dlmu.edu.com  weihaosun27@ustc.edu.cn  1497081944@qq.com
+📧 My commonly used email: sunweihao@dlmu.edu.com  weihaosun27@ustc.edu.cn  1497081944@qq.com
 
 🔗 Gitee: [Will-Son (ichont)](https://gitee.com/ichont)
 🔗 Huggingface:[Ichont ](https://huggingface.co/Ichont)
