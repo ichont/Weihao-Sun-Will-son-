@@ -5,12 +5,12 @@
 
 🎓 **XJTU(Xi'an Jiaotong University)** **|School of  Cyber Science and Engineer | An intern**
 
-🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security| AICSLab**
+🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security| AILab Joint Training**
 
 ### 🔥 About Me  
 - 📍 Currently pursuing a bachelor's degree at **Dalian Maritime University**
-- 🚀 The research direction is **AI4SE and AI4EDA**
-- 🚀 Research directions include **AI4SEC, MLLM, and AIGC generation and detection**
+- 🚀 Has conducted research on **AI4SE and AI4EDA**
+- 🚀 Research directions include **AI4SEC, AI4SCI, MLLM, and AIGC generation and detection**
 - 🚀 Now I am focusing on **algorithm optimization of LLMs**
 - 🌱 Researcher in the field of **AI**
 
