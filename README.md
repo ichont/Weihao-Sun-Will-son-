@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Weihao Sun! ![](https://komarev.com/ghpvc/?username=ichont&style=flat-square)
 
 
-🎓 **DLMU(Dalian Maritime University)** **| Dalian Key Laboratory of Artificial Intelligence| TSMC Group**
+🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence | TSMC Group**
 
-🎓 **XJTU(Xi'an Jiaotong University)** **|School of  Cyber Science and Engineer | An intern**
+🎓 **XJTU(Xi'an Jiaotong University) | School of  Cyber Science and Engineer | An intern**
 
-🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security| AILab Joint Training**
+🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security | AILab Joint Training**
 
 ### 🔥 About Me  
 - 📍 Currently pursuing a bachelor's degree at **Dalian Maritime University**
@@ -17,7 +17,7 @@
 ---
 
 ### 📬 Contact Me
-📧 My commonly used email: sunweihao@dlmu.edu.com  weihaosun27@ustc.edu.cn  1497081944@qq.com
+📧 My commonly used email: sunweihao@dlmu.edu.cn  weihaosun27@ustc.edu.cn  1497081944@qq.com
 
 🔗 Gitee: [Will-Son (ichont)](https://gitee.com/ichont)
 🔗 Huggingface:[Ichont ](https://huggingface.co/Ichont)
